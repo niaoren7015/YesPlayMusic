@@ -38,7 +38,7 @@ module.exports = {
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: '乐乐 - MusicJoy',
+      title: '大场乐乐 - MusicJoy',
       chunks: ['main', 'chunk-vendors', 'chunk-common', 'index'],
     },
   },
